@@ -1,0 +1,4 @@
+Peserta dapat memulai test sesuai waktu yang telah ditentukan. Timer akan mulai berjalan ketika peserta menekan tombol start.
+Untuk memilih jawaban, peserta harus menekan tombol 'Lock'. 
+Untuk menghapus jawaban tekan <span style="color:darkred:font-size:12px" class="glyphicon glyphicon-remove"></span>.
+Peserta dapat melihat hasil test pada menu 'History'.
